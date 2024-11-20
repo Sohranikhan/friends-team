@@ -1,1 +1,1 @@
-# friends-team
+print("Hello, World!")
